@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-07-18 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper at the [Social Influence in Conversations Workshop](https://sites.google.com/view/sicon-2023/home) won Best Paper!!
