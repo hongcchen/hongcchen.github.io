@@ -24,7 +24,7 @@ I am a PhD student in [School of Information](https://www.si.umich.edu/) at Univ
 
 I study science of science and innovation and have a broad interest in computational social science. My current research investigates global disparities in science and knowledge transfer within the science community. I adopt an interdisciplinary approach and use methods from NLP, network science, and causal inference in my research.
 
-Previously, I received my Master’s degree from Carnegie Mellon University and my Bachelor’s degree from Zhejiang University. After a circuitous journey, like solving a non-convex optimization problem, I unlock the thrill of [computational social science](https://css.si.umich.edu/index.html). Now when I’m not playing with data, you can find me blazing the kitchen, searching for misplaced goggles, or honing my barista skills for a backup career plan.
+Previously, I received my Master’s degree from Carnegie Mellon University and my Bachelor’s degree from Zhejiang University. After a circuitous journey, like solving a non-convex optimization problem, I unlock the thrill of computational social science. Now when I’m not playing with data, you can find me blazing the kitchen, searching for misplaced goggles, or honing my barista skills for a backup career plan.
 
 See my [CV](assets/HongChen_CV.pdf) for papers and links.
 
