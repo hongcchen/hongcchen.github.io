@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student in [School of Information](https://www.si.umich.edu/) at University of Michigan. I am fortunate to be advised by [Misha Teplitskiy](https://www.misha.mx/) and [David Jurgens](https://jurgens.people.si.umich.edu/). 
 
-I study science of science and innovation and have a broad interest in computational social science. My current research investigates global disparities in science and knowledge transfer within the science community. I adopt an interdisciplinary approach and use methods from NLP, network science, and causal inference in my research.
+I study <b>science of science and innovation</b> and have a broad interest in computational social science. My current research investigates global disparities in science and knowledge transfer within the science community. I adopt an interdisciplinary approach and use methods from NLP, network science, and causal inference in my research.
 
 Previously, I received my Master’s degree from Carnegie Mellon University and my Bachelor’s degree from Zhejiang University. After a circuitous journey, like solving a non-convex optimization problem, I unlock the thrill of computational social science. Now when I’m not playing with data, you can find me blazing the kitchen, searching for misplaced goggles, or honing my barista skills for a backup career plan.
 
