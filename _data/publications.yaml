@@ -1,37 +1,45 @@
 papers:
 
-  # ===== Working Papers =====
-
-  - title: "Disparate Attrition of Global South Authors Following Manuscript Rejection"
-    authors: "<b>Hong Chen</b>, Christopher I. Rider, David Jurgens, Misha Teplitskiy"
-    venue: "Working Paper. 2024. Media Coverage: Nature."
-    selected: y
-
-  # ===== Peer-reviewed Conference Proceedings =====
-
-  - title: "Counterfactual LLM-based Framework for Measuring Rhetorical Style"
-    authors: "Jiuding Qiu, <b>Hong Chen</b>, Zhuoer Li"
-    venue: "ICLR'26: International Conference on Learning Representations. 2026."
-    selected: y
-
-  - title: "The Noisy Path from Source to Citation: Measuring How Scholars Engage with Past Research"
-    authors: "<b>Hong Chen</b>, Misha Teplitskiy, David Jurgens"
-    venue: "ACL'25: Annual Meeting of the Association for Computational Linguistics. 2025."
-    selected: y
-
-  - title: "Causally Modeling the Linguistic and Social Factors that Predict Email Response"
-    authors: "Yiyang Xu<sup>†</sup>, <b>Hong Chen</b><sup>†</sup>, Siddharth Rakshit<sup>†</sup>, Aparna Ananthasubramaniam<sup>†</sup>, Oreoluwa Yadav<sup>†</sup>, Mengnan Zheng<sup>†</sup>, Muhe Jiang<sup>†</sup>, Longxuan Zhang<sup>†</sup>, Bowen Yi<sup>†</sup>, Kenan Alkiek<sup>†</sup>, Arnav Israeli<sup>†</sup>, Bairu Shu<sup>†</sup>, Hao Shen<sup>†</sup>, Jiaxin Pei<sup>†</sup>, Haozhe Zhang<sup>†</sup>, Miriam Schirmer<sup>†</sup>, David Jurgens"
-    venue: "NAACL'25: Annual Conference of the North American Chapter of the ACL. 2025."
-    selected: n
-
-  - title: "Exploring Linguistic Style Matching in Online Communities: The Role of Social Context and Conversation Dynamics"
-    authors: "Aparna Ananthasubramaniam<sup>†</sup>, <b>Hong Chen</b><sup>†</sup>, Jason Yan<sup>†</sup>, Kenan Alkiek<sup>†</sup>, Jiaxin Pei<sup>†</sup>, Agrima Seth<sup>†</sup>, Lavinia Dunagan<sup>†</sup>, Minje Choi<sup>†</sup>, Benjamin Litterer<sup>†</sup>, David Jurgens"
-    venue: "The 1st Workshop on Social Influence in Conversations, ACL 2023. (Best Paper)"
-    selected: n
-
   # ===== Journal Articles =====
 
   - title: "Further divided gender gaps in research productivity and collaboration during the COVID-19 pandemic: Evidence from coronavirus-related literature"
     authors: "Meijun Liu, Ning Zhang, Xiao Hu, Ajay Jaiswal, Jian Xu, <b>Hong Chen</b>, Ying Ding, Yi Bu"
     venue: "Journal of Informetrics. 2022."
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S1751157722000475"
     selected: n
+
+  # ===== Workshop Papers =====
+
+  - title: "Exploring Linguistic Style Matching in Online Communities: The Role of Social Context and Conversation Dynamics"
+    authors: "Aparna Ananthasubramaniam<sup>†</sup>, <b>Hong Chen</b><sup>†</sup>, Jason Yan<sup>†</sup>, Kenan Alkiek<sup>†</sup>, Jiaxin Pei<sup>†</sup>, Agrima Seth<sup>†</sup>, Lavinia Dunagan<sup>†</sup>, Minje Choi<sup>†</sup>, Benjamin Litterer<sup>†</sup>, David Jurgens"
+    venue: "The 1st Workshop on Social Influence in Conversations, ACL 2023. (Best Paper)"
+    paper_pdf: "https://aclanthology.org/2023.sicon-1.7/"
+    selected: n
+
+  # ===== Working Papers =====
+
+  - title: "Disparate Attrition of Global South Authors Following Manuscript Rejection"
+    authors: "<b>Hong Chen</b>, Christopher I. Rider, David Jurgens, Misha Teplitskiy"
+    venue: "Working Paper. 2024. Media Coverage: Nature."
+    paper_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872023"
+    selected: y
+
+  # ===== Peer-reviewed Conference Proceedings =====
+
+  - title: "The Noisy Path from Source to Citation: Measuring How Scholars Engage with Past Research"
+    authors: "<b>Hong Chen</b>, Misha Teplitskiy, David Jurgens"
+    venue: "ACL'25: Annual Meeting of the Association for Computational Linguistics. 2025."
+    paper_pdf: "https://aclanthology.org/2025.acl-long.1534/"
+    selected: y
+
+  - title: "Causally Modeling the Linguistic and Social Factors that Predict Email Response"
+    authors: "Yiyang Xu<sup>†</sup>, <b>Hong Chen</b><sup>†</sup>, Siddharth Rakshit<sup>†</sup>, Aparna Ananthasubramaniam<sup>†</sup>, Oreoluwa Yadav<sup>†</sup>, Mengnan Zheng<sup>†</sup>, Muhe Jiang<sup>†</sup>, Longxuan Zhang<sup>†</sup>, Bowen Yi<sup>†</sup>, Kenan Alkiek<sup>†</sup>, Arnav Israeli<sup>†</sup>, Bairu Shu<sup>†</sup>, Hao Shen<sup>†</sup>, Jiaxin Pei<sup>†</sup>, Haozhe Zhang<sup>†</sup>, Miriam Schirmer<sup>†</sup>, David Jurgens"
+    venue: "NAACL'25: Annual Conference of the North American Chapter of the ACL. 2025."
+    paper_pdf: "https://aclanthology.org/2025.naacl-long.594/"
+    selected: n
+
+  - title: "Counterfactual LLM-based Framework for Measuring Rhetorical Style"
+    authors: "Jingyi Qiu, <b>Hong Chen</b>, Zongyi Li"
+    venue: "ICLR'26: International Conference on Learning Representations. 2026."
+    paper_pdf: "https://arxiv.org/abs/2512.19908"
+    selected: y
