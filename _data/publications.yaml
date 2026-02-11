@@ -2,16 +2,6 @@ papers:
 
   # ===== Working Papers =====
 
-  - title: "Science Communication in Off-Channel"
-    authors: "<b>Hong Chen</b>, Misha Teplitskiy, David Jurgens"
-    venue: "Working Paper. 2026."
-    selected: y
-
-  - title: "Science Resilience Hinges on Persistent Collaboration"
-    authors: "<b>Hong Chen</b><sup>†</sup>, Yi Bu<sup>†</sup>, Caifan (Fan) Du, Eric Meyer, Ying Ding, Jianxi Gao"
-    venue: "Working Paper. 2025."
-    selected: y
-
   - title: "Disparate Attrition of Global South Authors Following Manuscript Rejection"
     authors: "<b>Hong Chen</b>, Christopher I. Rider, David Jurgens, Misha Teplitskiy"
     venue: "Working Paper. 2024. Media Coverage: Nature."
@@ -32,7 +22,7 @@ papers:
   - title: "Causally Modeling the Linguistic and Social Factors that Predict Email Response"
     authors: "Yiyang Xu<sup>†</sup>, <b>Hong Chen</b><sup>†</sup>, Siddharth Rakshit<sup>†</sup>, Aparna Ananthasubramaniam<sup>†</sup>, Oreoluwa Yadav<sup>†</sup>, Mengnan Zheng<sup>†</sup>, Muhe Jiang<sup>†</sup>, Longxuan Zhang<sup>†</sup>, Bowen Yi<sup>†</sup>, Kenan Alkiek<sup>†</sup>, Arnav Israeli<sup>†</sup>, Bairu Shu<sup>†</sup>, Hao Shen<sup>†</sup>, Jiaxin Pei<sup>†</sup>, Haozhe Zhang<sup>†</sup>, Miriam Schirmer<sup>†</sup>, David Jurgens"
     venue: "NAACL'25: Annual Conference of the North American Chapter of the ACL. 2025."
-    selected: y
+    selected: n
 
   - title: "Exploring Linguistic Style Matching in Online Communities: The Role of Social Context and Conversation Dynamics"
     authors: "Aparna Ananthasubramaniam<sup>†</sup>, <b>Hong Chen</b><sup>†</sup>, Jason Yan<sup>†</sup>, Kenan Alkiek<sup>†</sup>, Jiaxin Pei<sup>†</sup>, Agrima Seth<sup>†</sup>, Lavinia Dunagan<sup>†</sup>, Minje Choi<sup>†</sup>, Benjamin Litterer<sup>†</sup>, David Jurgens"
@@ -44,4 +34,4 @@ papers:
   - title: "Further divided gender gaps in research productivity and collaboration during the COVID-19 pandemic: Evidence from coronavirus-related literature"
     authors: "Meijun Liu, Ning Zhang, Xiao Hu, Ajay Jaiswal, Jian Xu, <b>Hong Chen</b>, Ying Ding, Yi Bu"
     venue: "Journal of Informetrics. 2022."
-    selected: y
+    selected: n
