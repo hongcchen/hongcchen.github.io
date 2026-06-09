@@ -1,16 +1,16 @@
 papers:
 
+  - title: "Persistent Collaboration as a Structural Signature of Scientific Resilience"
+    authors: "<b>Hong Chen</b><sup>†</sup>, Yi Bu<sup>†</sup>, Lu Zhong, Caifan Du, Eric T Meyer, Ying Ding, Jianxi Gao"
+    venue: "PNAS Nexus. 2026."
+    paper_pdf: "https://academic.oup.com/pnasnexus/advance-article-abstract/doi/10.1093/pnasnexus/pgag169/8687837"
+    selected: n
+
   - title: "Counterfactual LLM-based Framework for Measuring Rhetorical Style"
     authors: "Jingyi Qiu, <b>Hong Chen</b>, Zongyi Li"
     venue: "ICLR'26: International Conference on Learning Representations. 2026."
     paper_pdf: "https://arxiv.org/abs/2512.19908"
     selected: y
-
-  - title: "Persistent Collaboration as a Structural Signature of Scientific Resilience"
-    authors: "<b>Hong Chen</b>, Yi Bu, Lu Zhong, Caifan Du, Eric T Meyer, Ying Ding, Jianxi Gao"
-    venue: "PNAS Nexus. 2026."
-    paper_pdf: "https://academic.oup.com/pnasnexus/advance-article-pdf/doi/10.1093/pnasnexus/pgag169/68342207/pgag169.pdf"
-    selected: n
 
   - title: "The Noisy Path from Source to Citation: Measuring How Scholars Engage with Past Research"
     authors: "<b>Hong Chen</b>, Misha Teplitskiy, David Jurgens"
