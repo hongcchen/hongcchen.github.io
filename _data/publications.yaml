@@ -6,6 +6,12 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2512.19908"
     selected: y
 
+  - title: "Persistent Collaboration as a Structural Signature of Scientific Resilience"
+    authors: "<b>Hong Chen</b>, Yi Bu, Lu Zhong, Caifan Du, Eric T Meyer, Ying Ding, Jianxi Gao"
+    venue: "PNAS Nexus. 2026."
+    paper_pdf: "https://academic.oup.com/pnasnexus/advance-article-pdf/doi/10.1093/pnasnexus/pgag169/68342207/pgag169.pdf"
+    selected: n
+
   - title: "The Noisy Path from Source to Citation: Measuring How Scholars Engage with Past Research"
     authors: "<b>Hong Chen</b>, Misha Teplitskiy, David Jurgens"
     venue: "ACL'25: Annual Meeting of the Association for Computational Linguistics. 2025."
@@ -13,12 +19,12 @@ papers:
     selected: y
 
   - title: "Causally Modeling the Linguistic and Social Factors that Predict Email Response"
-    authors: "Yiyang Xu<sup>†</sup>, <b>Hong Chen</b><sup>†</sup>, Siddharth Rakshit<sup>†</sup>, Aparna Ananthasubramaniam<sup>†</sup>, Oreoluwa Yadav<sup>†</sup>, Mengnan Zheng<sup>†</sup>, Muhe Jiang<sup>†</sup>, Longxuan Zhang<sup>†</sup>, Bowen Yi<sup>†</sup>, Kenan Alkiek<sup>†</sup>, Arnav Israeli<sup>†</sup>, Bairu Shu<sup>†</sup>, Hao Shen<sup>†</sup>, Jiaxin Pei<sup>†</sup>, Haozhe Zhang<sup>†</sup>, Miriam Schirmer<sup>†</sup>, David Jurgens"
+    authors: "Yinuo Xu<sup>†</sup>, <b>Hong Chen</b><sup>†</sup>, Sushrita Rakshit<sup>†</sup>, Aparna Ananthasubramaniam<sup>†</sup>, Omkar Yadav<sup>†</sup>, Mingqian Zheng<sup>†</sup>, Michael Jiang<sup>†</sup>, Lechen Zhang<sup>†</sup>, Bowen Yi<sup>†</sup>, Kenan Alkiek<sup>†</sup>, Abraham Israeli<sup>†</sup>, Bangzhao Shu<sup>†</sup>, Hua Shen<sup>†</sup>, Jiaxin Pei<sup>†</sup>, Haotian Zhang<sup>†</sup>, Miriam Schirmer<sup>†</sup>, David Jurgens"
     venue: "NAACL'25: Annual Conference of the North American Chapter of the ACL. 2025."
     paper_pdf: "https://aclanthology.org/2025.naacl-long.594/"
     selected: n
 
-  - title: "Disparate Attrition of Global South Authors Following Manuscript Rejection"
+  - title: "The Geographic File Drawer: Global Disparities in Converting Rejected Papers into Publications"
     authors: "<b>Hong Chen</b>, Christopher I. Rider, David Jurgens, Misha Teplitskiy"
     venue: "Working Paper. 2024. Media Coverage: <a href='https://www.nature.com/articles/d41586-024-02142-w' target='_blank'>Nature</a>."
     paper_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872023"
