@@ -4,7 +4,7 @@ papers:
     authors: "<b>Hong Chen</b><sup>†</sup>, Yi Bu<sup>†</sup>, Lu Zhong, Caifan Du, Eric T Meyer, Ying Ding, Jianxi Gao"
     venue: "PNAS Nexus. 2026."
     paper_pdf: "https://academic.oup.com/pnasnexus/advance-article-abstract/doi/10.1093/pnasnexus/pgag169/8687837"
-    selected: n
+    selected: y
 
   - title: "Counterfactual LLM-based Framework for Measuring Rhetorical Style"
     authors: "Jingyi Qiu, <b>Hong Chen</b>, Zongyi Li"
